@@ -14,6 +14,7 @@ Datapath + Control Unit — opcode·funct3·funct7 디코딩 기반 제어신호
 
 
 아키텍처
+
         ┌─────────────┐      ┌──────────────┐
 
   PC ─► │ Instr Memory│ ───► │ Control Unit │─► 제어신호
